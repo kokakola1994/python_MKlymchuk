@@ -1,3 +1,6 @@
-Hello*world!
-My*name*is*Mykola*Klymchuk
-Programed*in*Python*languge
+Hello world! ZZZ
+My name is Mykola Klymchuk Z
+Programed in Python languge Z
+This is new extra line number 1 Z
+This is second extra line number 2 Z
+aaa ZZZ
