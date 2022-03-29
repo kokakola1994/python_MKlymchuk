@@ -1,6 +1,8 @@
-file = open('liczby','r')
-s = 0
+file = open('liczby.txt','r')
 l = []
-while s == file:
-    l.append(s)
+s = list(file.readlines())
+i = 0
+while i < len(s):
+    l.append(s[i])
+    i += 1
 print(l)
